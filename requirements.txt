@@ -1,0 +1,16 @@
+Flask==1.1.2
+gunicorn==19.9.0
+itsdangerous==1.1.0
+Jinja2==2.10.1
+MarkupSafe==1.1.1
+Werkzeug==0.15.5
+numpy>=1.18.5
+scipy>=0.15.1
+pandas>=0.19
+tables==3.6.1
+tabulate==0.8.7
+tblib==1.6.0
+beautifulsoup4==4.9.1
+
+
+
